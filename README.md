@@ -181,7 +181,7 @@ public:
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=longnp54&theme=redical&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=longnp54&theme=radical&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ## 🏆 GitHub Achievements
