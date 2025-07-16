@@ -37,15 +37,6 @@ At Viettel High Tech, I transform complex hardware challenges into elegant softw
 ⚡ **Real-time Systems** - Creating responsive embedded applications for industrial automation  
 🌐 **IoT Innovation** - Connecting devices to create smart, interconnected solutions  
 
-## What I'm Working On
-
-```
-🔄 Currently developing: Advanced ECG monitoring systems
-🎯 Learning: Machine learning applications in embedded systems  
-💡 Exploring: Edge computing for IoT devices
-🚀 Next goal: Integrating AI with robotics for smart automation
-```
-
 ## Recent Activity
 
 <div align="center">
@@ -54,7 +45,7 @@ At Viettel High Tech, I transform complex hardware challenges into elegant softw
 
 ## Professional Journey
 
-**Software Engineer @ Viettel High Tech** 🇻🇳  
+**Embedded Engineer @ Viettel High Tech** 🇻🇳  
 *Transforming ideas into intelligent embedded solutions*
 
 - 🏗️ **Building** next-generation IoT platforms for telecommunications
@@ -66,7 +57,7 @@ At Viettel High Tech, I transform complex hardware challenges into elegant softw
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/long-trinh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/long-trinh-68335721a)
 [![Email](https://img.shields.io/badge/Email-Drop%20a%20Line-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:longtrinhlehoang@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20My%20Journey-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/longnp54)
 
