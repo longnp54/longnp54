@@ -10,7 +10,11 @@
 
 ## About Me
 
-Software Engineer specializing in **Embedded Systems**, **IoT Solutions**, and **Robotics Automation** at Viettel High Tech. Passionate about developing intelligent systems that bridge hardware and software to solve real-world problems in healthcare and automation.
+👨‍💻 Software Engineer passionate about **bridging the physical and digital worlds** through embedded systems and IoT innovations. 
+
+At Viettel High Tech, I transform complex hardware challenges into elegant software solutions, specializing in real-time systems that power everything from medical devices to industrial automation. 
+
+💡 *Always excited about projects that combine cutting-edge technology with real-world impact!*
 
 ## Technical Skills
 
@@ -26,30 +30,46 @@ Software Engineer specializing in **Embedded Systems**, **IoT Solutions**, and *
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longnp54&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </div>
 
-## Featured Projects
+## Current Focus & Interests
 
-### [IoT ECG Analyzer](https://github.com/longnp54/IoT-ECG-Analyzer) ⭐
-Real-time ECG monitoring system with heart rate analysis and email alerts for health monitoring applications.
+🔬 **Healthcare Technology** - Building IoT solutions for medical monitoring and patient care  
+🤖 **Intelligent Robotics** - Developing autonomous systems with advanced navigation algorithms  
+⚡ **Real-time Systems** - Creating responsive embedded applications for industrial automation  
+🌐 **IoT Innovation** - Connecting devices to create smart, interconnected solutions  
 
-### [IR Communication Robot](https://github.com/longnp54/pcb_ir_robot)
-Custom PCB design for infrared communication robot with embedded C programming and real-world implementation.
+## What I'm Working On
 
-### [A* Pathfinding Algorithm](https://github.com/longnp54/A_Star_Algorithm_with_Vrep) ⭐
-Intelligent navigation system implementing A* algorithm for robot path optimization in V-REP simulation environment.
+```
+🔄 Currently developing: Advanced ECG monitoring systems
+🎯 Learning: Machine learning applications in embedded systems  
+💡 Exploring: Edge computing for IoT devices
+🚀 Next goal: Integrating AI with robotics for smart automation
+```
 
-### [STM32 Motor Control](https://github.com/longnp54/motor_controlling_stm32f446ret6)
-Precision motor control system using STM32F446RET6 microcontroller for 140rpm GA25 motor management.
+## Recent Activity
 
-### [Flocking Algorithm Simulation](https://github.com/longnp54/flocking_algorithm) ⭐
-Swarm intelligence simulation implementing boids flocking behavior with interactive visualization.
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=longnp54&theme=github-compact&hide_border=true&area=true" alt="Contribution Activity" />
+</div>
 
-## Professional Experience
+## Professional Journey
 
-**Software Engineer** | **Viettel High Tech** | Vietnam  
-Developing embedded systems and IoT solutions for telecommunications and enterprise applications. Contributing to Vietnam's digital transformation through innovative hardware-software integration projects.
+**Software Engineer @ Viettel High Tech** 🇻🇳  
+*Transforming ideas into intelligent embedded solutions*
 
-## Contact
+- 🏗️ **Building** next-generation IoT platforms for telecommunications
+- 🎯 **Specializing** in embedded systems architecture and real-time applications  
+- 🌟 **Contributing** to Vietnam's digital infrastructure development
+- 🤝 **Collaborating** with cross-functional teams on innovative hardware-software integration
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/long-trinh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@longtrinh.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/longnp54)
+## Let's Connect & Build Something Amazing
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/long-trinh)
+[![Email](https://img.shields.io/badge/Email-Drop%20a%20Line-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:longtrinhlehoang@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20My%20Journey-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/longnp54)
+
+*"Innovation happens when curiosity meets execution"* 💭
+
+</div>
